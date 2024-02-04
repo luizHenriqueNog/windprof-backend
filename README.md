@@ -47,6 +47,3 @@ O servidor estará rodando na porta especificada no arquivo `.env`, ou na porta 
 - **Método:** `POST`
 - **Corpo da Requisição:** JSON com a estrutura `{ messages: [{ content: "Seu CSS aqui" }] }`
 - **Resposta:** Tradução do CSS em classes Tailwind.
-
-## Suporte
-Para dúvidas ou suporte, crie uma issue no repositório ou entre em contato com o mantenedor.
